@@ -40,6 +40,6 @@ elif computer_choice==0 and user_choice ==2:
 elif user_choice > computer_choice:
     print("You Win!")
 elif computer_choice > user_choice:
-    print("You lose !")
+    print("You lose !!!!!!!!!!!!!!")
 elif user_choice==computer_choice:
     print("It's a draw!")
